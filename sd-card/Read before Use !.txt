@@ -1,0 +1,9 @@
+* Please ensure enough space for setting Raptor, and leave 200mm gap around.
+
+* Recommend Temperature: PLA 190-200C, Bed 50-60C; ABS 220-230C, Bed 90-100C.
+
+* If print models over 250x250mm, please spread some PVP biological glue on the outer area of print bed, so as to avoid edge warping.
+
+
+
+
